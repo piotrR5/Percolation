@@ -23,7 +23,6 @@ public:
 };
 
 class Node{
-
 public:
     size_t cluster;
     bool visited=false;

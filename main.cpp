@@ -4,6 +4,8 @@
 
 using namespace std;
 
+
+
 fmt::color table[]={
     fmt::color::azure,
     fmt::color::blue,
